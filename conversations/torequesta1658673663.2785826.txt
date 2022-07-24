@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to request a meeting with a professor.
+ASSISTANT: Who is the professor you need to meet with?
+USER: Professor Smith.
+ASSISTANT: What is the purpose of the meeting?
+USER: I need to discuss my grades with him.
+ASSISTANT: When do you need to meet with him?
+USER: As soon as possible.
+ASSISTANT: Is there anything else you need to say in the email?
+USER: No, that's it.

@@ -1,0 +1,13 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to apologize to a family member.
+ASSISTANT: OK, can you tell me more about what happened?
+USER: I said some things that were really hurtful and I want to apologize.
+ASSISTANT: OK, I can help you with that. Is there anything else you want to say in the email?
+USER: Just that I'm sorry and that I love them.
+ASSISTANT: OK, I can draft that up for you.
+
+PERFECT EMAIL:
+
+Hiya, I'm sorry for what I said, I was out of line and it wasn't okay. I know I hurt you and I'm truly sorry. I hope you can forgive me, I love you very much. Sincerely, (Your name)

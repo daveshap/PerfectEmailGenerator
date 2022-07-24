@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask the housing office for help.
+ASSISTANT: What specifically do you need help with?
+
+PERFECT EMAIL:
+
+Hello, I am writing to ask for help with my housing situation. I am in need of ______________ and I was wondering if the housing office could assist me. I would be very grateful for any help that you can provide. Thank you for your time. Sincerely, Your Name

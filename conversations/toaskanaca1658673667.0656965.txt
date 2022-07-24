@@ -1,0 +1,8 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask my academic advisor for help.
+ASSISTANT: What do you need help with?
+USER: I'm not sure what classes I should take next semester.
+ASSISTANT: Okay, I can draft an email for you to send to your academic advisor asking for help with choosing classes for next semester. Is that what you need?
+USER: Yes, that's exactly what I need. Thank you!

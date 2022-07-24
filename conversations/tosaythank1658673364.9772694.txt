@@ -1,0 +1,18 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I want to say thank you to a family member.
+ASSISTANT: Who do you want to say thank you to?
+USER: My aunt.
+ASSISTANT: What do you want to thank her for?
+USER: She sent me a gift.
+ASSISTANT: What gift did she send you?
+USER: A pair of earrings.
+ASSISTANT: What did you like about the earrings?
+USER: I loved the color. They are my favorite color.
+ASSISTANT: What did you say when you opened the gift?
+USER: I was so surprised! I didn't expect her to get me anything.
+ASSISTANT: That's great! So you were happy with the gift?
+USER: Yes, I was very happy. I'm going to wear them all the time.
+ASSISTANT: That sounds great. I'll draft an email for you saying thank you to your aunt for the earrings. Is there anything else you'd like to say?
+USER: No, that's it. Thank you.

@@ -1,0 +1,13 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask my neighbor to remove a tree branch that is hanging over onto my property.
+ASSISTANT: Do you want to be polite or direct?
+USER: Polite.
+ASSISTANT: Okay, let me see what I can come up with.
+ASSISTANT: Hi Neighbor, I hope you're doing well! I wanted to ask if you could remove a tree branch that is hanging over onto my property. I would really appreciate it if you could take care of this as soon as possible. Thank you so much! Best, [Your Name]
+USER: That sounds great, thank you!
+
+PERFECT EMAIL:
+
+Hi Neighbor, I hope you're doing well! I wanted to ask if you could remove a tree branch that is hanging over onto my property. I would really appreciate it if you could take care of this as soon as possible. Thank you so much! Best, [Your Name]

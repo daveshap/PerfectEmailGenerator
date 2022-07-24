@@ -1,0 +1,10 @@
+-TO: student services
+-FROM: me
+-SUBJECT: question about course registration
+-Body:
+  -I'm trying to register for a course and I'm not sure how to go about it. Can you help me?
+  -Thank you!
+
+PERFECT EMAIL:
+
+Hello Student Services, I'm trying to register for a course and I'm not sure how to go about it. Can you help me? Thank you!

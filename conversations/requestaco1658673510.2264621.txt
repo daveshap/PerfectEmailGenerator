@@ -1,0 +1,5 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to request a conference call at work.
+ASSISTANT: Who do you need to conference call with?

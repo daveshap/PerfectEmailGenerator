@@ -1,0 +1,8 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to communicate with a classmate about an assignment.
+ASSISTANT: Can you give me more details about the assignment?
+USER: It's a group project and we need to figure out a time to meet.
+ASSISTANT: Okay, I can draft an email for you to send to your classmate about meeting to work on the assignment. Is there anything else you want to include in the email?
+USER: That's it, thank you.

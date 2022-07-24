@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask the financial aid office for help.
+ASSISTANT: What kind of help do you need?
+USER: I need help with my tuition.
+ASSISTANT: Do you have any specific questions you need answered?
+USER: I'm not sure what to say. Can you help me?
+ASSISTANT: Sure. Let me see if I can draft something up for you.

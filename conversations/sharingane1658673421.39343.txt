@@ -1,0 +1,10 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I want to share a news article with my friends.
+ASSISTANT: What is the news article about?
+USER: It's about a new study that says people who drink coffee are more likely to live longer.
+ASSISTANT: That's interesting! Do you want to share your thoughts on the article in the email?
+USER: Yeah, I think it's really interesting and I want my friends to know about it.
+ASSISTANT: Okay, I can draft an email for you about the article. Is there anything else you want to include in the email?
+USER: No, that's it. Thanks!

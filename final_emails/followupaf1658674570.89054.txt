@@ -1,0 +1,16 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need it to be a follow-up after a meeting at work.
+ASSISTANT: Who did you have the meeting with?
+USER: My boss.
+ASSISTANT: What did you discuss in the meeting?
+USER: We discussed a new project I'm going to be working on.
+ASSISTANT: What do you want to say in the email?
+USER: I want to thank my boss for the opportunity to work on the new project and reiterate my commitment to doing a great job.
+ASSISTANT: Would you like me to draft the email for you?
+USER: Yes, please.
+
+PERFECT EMAIL:
+
+Subject: Thank you for the opportunity Hello [Boss], I wanted to take a moment to thank you for the opportunity to work on the new project. I am excited about the chance to contribute and am committed to doing a great job. Thank you for your confidence in me. I look forward to delivering good results. Best, [Your name]

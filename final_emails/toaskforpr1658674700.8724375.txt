@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask for prayers.
+ASSISTANT: Who do you want to send the email to?
+USER: My church.
+ASSISTANT: What do you want to say in the email?
+USER: I am going through a difficult time and could really use some prayers.
+
+PERFECT EMAIL:
+
+Hi church, I am going through a difficult time and could really use some prayers. If anyone is available to pray with me or just send some positive thoughts my way, I would really appreciate it. Thank you!

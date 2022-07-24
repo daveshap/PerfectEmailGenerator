@@ -1,0 +1,11 @@
+-To: boss@company.com
+-From: employee@company.com
+-Subject: Feedback on Project ABC
+-Hi Boss,
+-I wanted to get your feedback on my work on Project ABC. I think it went well, but I wanted to get your thoughts.
+-Thanks,
+-Employee
+
+PERFECT EMAIL:
+
+To: boss@company.com From: employee@company.com Subject: Feedback on Project ABC Hi Boss, I wanted to get your feedback on my work on Project ABC. I think it went well, but I wanted to get your thoughts. Thanks, Employee

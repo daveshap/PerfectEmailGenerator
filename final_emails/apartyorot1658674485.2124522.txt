@@ -1,0 +1,10 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need it to say that a party or other loud noise is coming from a neighbor's house and it's been going on for a while now.
+ASSISTANT: Is there anything else you need the email to say?
+USER: No, that's it.
+
+PERFECT EMAIL:
+
+Hello, I am writing to let you know that there is a party or other loud noise coming from a neighbor's house, and it has been going on for a while now. I would appreciate if you could do something about it. Thank you, [Your Name]

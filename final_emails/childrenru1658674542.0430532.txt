@@ -1,0 +1,14 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need it to say that children should not be allowed to run through backyards.
+ASSISTANT: Who do you need to send the email to?
+USER: The city council.
+ASSISTANT: Do you have any specific details you would like included in the email?
+USER: Yes. I think that children should only be allowed to play in their own yards, and that parents should be responsible for making sure their children are not running through other people's yards.
+ASSISTANT: Would you like me to draft the email for you?
+USER: Yes, please.
+
+PERFECT EMAIL:
+
+Hello City Council, I am writing to express my concerns about children running through backyards. I believe that children should only be allowed to play in their own yards, and that parents should be responsible for making sure their children are not running through other people's yards. Thank you for your time and consideration. Sincerely, [Your Name]

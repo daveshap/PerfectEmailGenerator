@@ -17,7 +17,7 @@ def save_file(filepath, content):
 
 openai.api_key = open_file('openaiapikey.txt')
 
-modifiers = open_file('baseline_intents.txt').splitlines()
+scenarios = open_file('baseline_intents.txt').splitlines()
 
 
 
@@ -50,10 +50,10 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=1.0, top_p=1.0, toke
 
 
 if __name__ == '__main__':
-    for modifier in modifiers:
-        prompt = open_file('prompt_story.txt').replace('<<MODIFIER>>', modifier).replace('<<UUID>>', str(uuid4()))
+    for scenario in scenarios:
+        prompt = open_file('prompt_story.txt').replace('<<SCENARIO>>', scenario).replace('<<UUID>>', str(uuid4()))
         print('\n\n==========\n\n', prompt)
         completion = gpt3_completion(prompt)
-        filename = modifier.replace(' ','').lower()[0:10] + str(time()) + '.txt'
+        filename = scenario.replace(' ','').lower()[0:10] + str(time()) + '.txt'
         save_file('stories/%s' % filename, completion)
         print('\n\n', completion)

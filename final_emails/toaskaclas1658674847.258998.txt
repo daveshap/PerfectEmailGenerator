@@ -1,0 +1,10 @@
+-TO: the classmate you are asking for help
+-FROM: you
+-SUBJECT: Asking for help
+-Intentions: to explain what you need help with and why you are reaching out
+-Goals: to get help with the issue at hand
+-Tone: polite, friendly
+
+PERFECT EMAIL:
+
+Hi [classmate], I hope you're doing well. I'm reaching out to see if you might be able to help me with something. I'm having trouble understanding [concept] and I was wondering if you could explain it to me. I've been trying to wrap my head around it but I'm just not getting it. I would really appreciate your help. Let me know if you're available and we can arrange a time to meet up. Thanks, [Your Name]

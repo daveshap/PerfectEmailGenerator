@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need it to be a marketing email to a specific customer.
+ASSISTANT: Do you have any specific details you can give me about what you would like the email to say?
+
+PERFECT EMAIL:
+
+Hi there! I'm writing to you because I wanted to let you know about a great new product we have that I think you would love. It's called the SuperSonic Scrubber and it's the perfect tool for cleaning your house from top to bottom. This powerful little scrubber uses ultrasonic waves to break up dirt and grime, making cleaning faster and easier than ever before. Plus, it comes with a handy detachable hose so you can reach those hard-to-reach places. I think the SuperSonic Scrubber would be perfect for you and I wanted to give you a special offer. For a limited time, we're offering a free SuperSonic Scrubber to our customers. All you have to do is pay for shipping and handling. I hope you'll take advantage of this great offer and try out the SuperSonic Scrubber. I think you'll be amazed at how well it works. Thanks for your time, [Your name]

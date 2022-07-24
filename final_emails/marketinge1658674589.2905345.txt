@@ -1,0 +1,15 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need it to be a marketing email about a fun new product.
+ASSISTANT: What is the product?
+USER: It's a new line of children's clothing.
+ASSISTANT: What do you want the email to say about the product?
+USER: I want it to say that the product is fun, stylish, and affordable.
+ASSISTANT: Is there anything else you want to say about the product?
+USER: No, that's it.
+ASSISTANT: Okay, I'll get started on the email.
+
+PERFECT EMAIL:
+
+Hello, We are excited to introduce our new line of children's clothing! This fun and stylish line is affordably priced, making it the perfect choice for families on a budget. We hope you'll come and check out our new line today! Thank you for your continued support.

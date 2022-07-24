@@ -1,0 +1,9 @@
+-To: Apartment Manager
+-From: Resident
+-Subject: Package Delivery
+-I received a package today that was addressed to the apartment next door. I just wanted to let you know in case you were expecting it.
+-Thank you!
+
+PERFECT EMAIL:
+
+Subject: Package Delivery Hello, I received a package today that was addressed to the apartment next door. I just wanted to let you know in case you were expecting it. Thank you!

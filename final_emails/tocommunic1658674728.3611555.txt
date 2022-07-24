@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to communicate with a teacher about an assignment.
+ASSISTANT: What do you need to say to the teacher?
+
+PERFECT EMAIL:
+
+Hi Teacher, I wanted to reach out and ask for more information about the upcoming assignment. Can you provide more details on what is expected? I want to make sure I am on the right track. Thank you, [Your Name]

@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to request a work from home arrangement.
+ASSISTANT: Is this a permanent arrangement or do you just need it for a certain period of time?
+USER: I need it for a certain period of time. I have a family emergency and I need to be at home with my family.
+ASSISTANT: Okay, I can draft an email for you requesting a work from home arrangement for a certain period of time. Is there anything else you need me to include in the email?
+USER: No, that's all. Thank you.
+
+PERFECT EMAIL:
+
+Hi there, I'm hoping to arrange a work from home arrangement for the next little while. I have a family emergency and need to be at home with my family. Is there any way that could be possible? I'm happy to provide more details if needed. Thank you, [Your Name]

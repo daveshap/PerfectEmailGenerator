@@ -1,0 +1,13 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I received a scam email from someone claiming to be my neighbor. I need to warn my other neighbors about it.
+ASSISTANT: Okay, I can definitely draft an email for you. Can you give me more details about the email?
+USER: It was from someone claiming to be my neighbor. They said they were going out of town and needed me to watch their house. But it was clearly a scam.
+ASSISTANT: I see. So you want to warn your other neighbors about the email so they don't fall for the same scam?
+USER: Exactly.
+ASSISTANT: Got it. I'll draft the email for you.
+
+PERFECT EMAIL:
+
+Hello fellow neighbors, I recently received an email from someone claiming to be my neighbor. They said they were going out of town and needed me to watch their house. But it was clearly a scam. I just wanted to warn you all in case you received a similar email. Do not respond to it or give out any personal information. If you have any questions, feel free to reach out to me. Thank you, [Your Name]

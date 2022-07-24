@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need it to be an inspirational message from the Bible.
+ASSISTANT: What specifically would you like the email to say?
+USER: I would like it to say that God is always with us and will never leave us.
+ASSISTANT: Is there anything else you would like the email to say?
+USER: No, that's it. Thanks!
+
+PERFECT EMAIL:
+
+Hi there! I wanted to reach out and share an inspirational message from the Bible with you. God is always with us and will never leave us. This is a promise that He has made to us, and it is one that we can cling to in times of trouble and hardship. Knowing that God is with us can give us strength and comfort. I hope that this message brings you some peace and encouragement. Blessings, [Your name]

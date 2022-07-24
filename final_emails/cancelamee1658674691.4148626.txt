@@ -1,0 +1,10 @@
+-TO: Boss
+-FROM: Employee
+-SUBJECT: Cancelling Meeting
+-I'm sorry, but I need to cancel the meeting.
+-I apologize for any inconvenience this may have caused.
+-Thank you.
+
+PERFECT EMAIL:
+
+Hi Boss, I hope you're doing well. I regret to inform you that I need to cancel the meeting. I apologize for any inconvenience this may have caused. Thank you for understanding. Sincerely, Employee

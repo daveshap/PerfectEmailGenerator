@@ -1,0 +1,11 @@
+-TO: customer@email.com
+-FROM: company@email.com
+-SUBJECT: Customized product just for you!
+
+-Intention: to introduce a new product to the customer that has been tailored specifically for them
+-Goals: to get the customer interested in the product and encourage them to try it out
+-Tone: enthused, personal
+
+PERFECT EMAIL:
+
+Hi (customer's name), We're excited to introduce our new customized product just for you! We've been working hard to perfect this product and we think you're going to love it. This product has been tailored specifically for you and we think it will be a perfect fit for your needs. We encourage you to try it out and see for yourself! We know you're going to be impressed. Thanks for being a loyal customer, and we can't wait to hear what you think of our new product. Sincerely, (Your name)

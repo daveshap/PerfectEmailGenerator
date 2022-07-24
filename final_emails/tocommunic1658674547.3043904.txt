@@ -1,0 +1,5 @@
+I am a student who needs to communicate with a professor about an upcoming exam. I need to email the professor to ask a question about the exam.
+
+PERFECT EMAIL:
+
+Subject: Exam question Hi Professor Smith, I'm just writing to confirm what the format of the exam will be. Will it be multiple choice, essay, or something else? Thanks, Alex

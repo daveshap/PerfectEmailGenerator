@@ -1,0 +1,5 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need it to say "Get well soon!"
+ASSISTANT: Is there anything else you would like me to include in the email?

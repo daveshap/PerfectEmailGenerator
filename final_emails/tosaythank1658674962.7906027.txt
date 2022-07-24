@@ -1,0 +1,20 @@
+TO: {Recipient}
+ FROM: {Sender}
+ SUBJECT: A heartfelt thank you
+ 
+ intentions:
+ To show my appreciation for all that you do
+ 
+ goals:
+ 
+ To let you know how much I appreciate you and all that you do for me
+ 
+ To express my gratitude for your presence in my life
+ 
+ tone:
+ 
+ Heartfelt and sincere
+
+PERFECT EMAIL:
+
+Dear {Recipient}, I just wanted to take a moment to tell you how much I appreciate you. You are always there for me when I need you, and you do so much for me. I am truly grateful for your presence in my life. Thank you from the bottom of my heart for everything. With love, {Sender}

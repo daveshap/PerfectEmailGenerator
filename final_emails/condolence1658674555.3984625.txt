@@ -1,0 +1,15 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to offer my condolences to a coworker whose family member has passed away.
+ASSISTANT: Okay. Would you like me to draft a general email or one specifically tailored to the individual?
+USER: A general one is fine.
+ASSISTANT: All right. What would you like the email to say?
+USER: I'm so sorry for your loss. If there's anything I can do to help, please let me know.
+ASSISTANT: Is there anything else you'd like to say?
+USER: No, that's it.
+ASSISTANT: Okay. I'll go ahead and draft the email for you.
+
+PERFECT EMAIL:
+
+Hi there, I'm so sorry to hear about your loss. If there's anything I can do to help, please let me know. I'll be thinking of you and your family during this tough time. Sincerely, [Your Name]

@@ -1,0 +1,10 @@
+-TO: boss
+-FROM: employee
+-SUBJECT: Request for Promotion
+-Intentions: I would like to be considered for a promotion to the position of _____.
+-Goals: I have been with the company for _____ years and have made significant contributions during my time here. I believe I have the skills and experience needed to be successful in the position of _____.
+-Tone: Professional and courteous
+
+PERFECT EMAIL:
+
+Hello boss, I would like to be considered for a promotion to the position of _____. I have been with the company for _____ years and have made significant contributions during my time here. I believe I have the skills and experience needed to be successful in the position of _____. Thank you for your time and consideration. Sincerely, employee

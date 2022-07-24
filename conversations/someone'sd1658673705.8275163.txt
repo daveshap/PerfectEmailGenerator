@@ -1,0 +1,7 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: My dog is on the loose and I need help finding her.
+ASSISTANT:
+
+Ok, so you need an email drafted about your dog being on the loose. Can you give me more information about what you need the email to say?

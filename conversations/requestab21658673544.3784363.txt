@@ -1,0 +1,7 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to request a B2C document from a vendor.
+ASSISTANT: Do you have any specific details you need included in the email?
+USER: No, just a general request for the document.
+ASSISTANT: Okay, I can draft something up for you. Give me just a minute.

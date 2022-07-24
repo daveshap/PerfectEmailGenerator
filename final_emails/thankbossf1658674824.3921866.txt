@@ -1,0 +1,10 @@
+- TO: boss
+- FROM: employee
+- SUBJECT: Thank you for the new project
+- Intention: to thank the boss for the new project
+- Goal: to show appreciation for the new project
+- Tone: sincere and grateful
+
+PERFECT EMAIL:
+
+Hello Boss, I wanted to take a moment to say thank you for the new project. I am truly grateful for the opportunity and am excited to get started. Thank you for your confidence in me. I will do my best to make sure the project is a success. Sincerely, Employee

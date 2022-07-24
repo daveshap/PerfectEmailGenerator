@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask the registrar's office for help.
+ASSISTANT: What do you need help with?
+
+PERFECT EMAIL:
+
+Dear Registrar's Office, I am writing to request your help with a problem I am having. I am a student at the university and I am having difficulty registering for classes. I would appreciate it if you could help me resolve this issue. Thank you, [Your Name]

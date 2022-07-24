@@ -1,0 +1,11 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I'm requesting more flexible hours at work.
+ASSISTANT: What are your current hours?
+USER: I work 9 to 5, Monday to Friday.
+ASSISTANT: What hours would you like to work instead?
+USER: I'd like to work from 10 to 6, Monday to Friday.
+ASSISTANT: Any particular reason why you're requesting these hours?
+USER: I'd like to have a better work/life balance.
+ASSISTANT: Ok, I'll draft an email for you requesting more flexible hours.

@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to share a testimony.
+ASSISTANT: What is your testimony about?
+
+PERFECT EMAIL:
+
+Hello friends, I wanted to share a testimony with you all about the goodness of God. Recently, I had been going through a tough time and was really struggling. I prayed and asked God to help me, and He did! He provided me with the strength and courage I needed to get through it. I am so grateful for His help, and I know that He will always be there for me. I hope this testimony encourages you and reminds you of God's goodness. He is always faithful and will never leave us alone. Blessings, (Your name)

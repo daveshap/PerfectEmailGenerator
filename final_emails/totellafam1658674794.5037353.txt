@@ -1,0 +1,11 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to tell my family member that I love them.
+ASSISTANT: Okay, is there anything else you'd like to say?
+USER: No, that's it.
+ASSISTANT: All right, I'll go ahead and draft the email for you.
+
+PERFECT EMAIL:
+
+Hi there, I just wanted to take a moment to tell you how much I love you. You're an amazing person, and I'm so grateful to have you in my life. Thank you for everything, and I hope you know how much I care about you. Lots of love, [Your name]

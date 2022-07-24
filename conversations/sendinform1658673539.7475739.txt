@@ -1,0 +1,14 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to send some information to my colleagues at work.
+ASSISTANT: What sort of information do you need to send?
+USER: I need to send a report to my colleagues at work.
+ASSISTANT: What sort of report?
+USER: I need to send a financial report to my colleagues at work.
+ASSISTANT: Do you have the report with you?
+USER: No, I don't have the report with me.
+ASSISTANT: Do you have a link to the report?
+USER: No, I don't have a link to the report.
+ASSISTANT: Do you have any other information about the report?
+USER: No, I don't have any other information about the report.

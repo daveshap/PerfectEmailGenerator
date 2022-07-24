@@ -1,0 +1,6 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask my boss for a new project.
+ASSISTANT: What do you want the email to say specifically?
+USER: I want to ask my boss if I can take on a new project.

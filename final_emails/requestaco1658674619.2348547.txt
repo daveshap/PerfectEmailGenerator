@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to request a conference call at work.
+ASSISTANT: Who do you need to conference call with?
+
+PERFECT EMAIL:
+
+Hi there, I was hoping to arrange a conference call with {person/department}. Would there be a time that would work well for them? I'm flexible on my end. Thank you, {Your Name}

@@ -1,0 +1,10 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask a professor for help.
+
+ASSISTANT:
+
+Hi there,
+
+I'm reaching out to you because I'm hoping to get your help with something. I'm struggling in one of my classes and I was hoping I could talk to you about it. I know you're really busy, so I'll just take a few minutes of your time. I would really appreciate any help you can give me. Thank you so much!

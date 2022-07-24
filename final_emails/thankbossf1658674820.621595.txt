@@ -1,0 +1,10 @@
+-TO:Boss
+-FROM: Employee
+-SUBJECT: Thank you for the promotion!
+-Intentions: to express gratitude for the promotion
+-goals: to maintain a good relationship with the boss
+-tone: thankful
+
+PERFECT EMAIL:
+
+Hi Boss, I wanted to drop you a quick note to say thank you for the promotion. I really appreciate the opportunity and am looking forward to taking on the new responsibilities. Thank you for your faith in me - I won't let you down. Best, [Employee]

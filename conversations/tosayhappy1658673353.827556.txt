@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need you to say happy birthday to a family member.
+ASSISTANT: Who is the family member?
+USER: My cousin.
+ASSISTANT: What is your cousin's name?
+USER: Jake.
+ASSISTANT: What is Jake's email address?
+USER: jake@gmail.com.
+ASSISTANT: Would you like me to say anything else in the email?
+USER: No, just happy birthday.

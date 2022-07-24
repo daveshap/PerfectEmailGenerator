@@ -1,0 +1,10 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to thank someone for a response they gave me at work.
+ASSISTANT: Who are you emailing?
+USER: My boss.
+ASSISTANT: What did they do that you're thanking them for?
+USER: They gave me a great response to a work issue I was having.
+ASSISTANT: What would you like the email to say?
+USER: Thank you for the great response you gave me to my work issue. It was very helpful and I appreciate it.

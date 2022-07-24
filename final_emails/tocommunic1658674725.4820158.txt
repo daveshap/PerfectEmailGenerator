@@ -1,0 +1,13 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: We need to communicate a change in church service times.
+ASSISTANT: Okay, what are the new service times?
+USER: 11:00am and 6:00pm.
+ASSISTANT: Got it. Is there anything else you need to say in the email?
+USER: Nope, that's it.
+ASSISTANT: Okay, I'll get started on the email right away.
+
+PERFECT EMAIL:
+
+Hello! Starting next week, our church services will be held at 11:00am and 6:00pm. We hope to see you there!

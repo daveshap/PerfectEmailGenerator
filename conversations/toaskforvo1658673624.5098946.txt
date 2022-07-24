@@ -1,0 +1,8 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask for volunteers for a church event.
+ASSISTANT: Ok, what are the details of the event?
+USER: It's a church fundraising event. We're looking for volunteers to help set up, run the event, and clean up afterwards.
+ASSISTANT: Ok, got it. Anything else I need to know?
+USER: That's all. Thank you!

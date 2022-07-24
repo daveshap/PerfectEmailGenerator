@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to thank my boss for a promotion.
+ASSISTANT: Okay, what would you like to say specifically?
+USER: I want to say thank you for believing in me and giving me this opportunity.
+ASSISTANT: Is there anything else you would like to say?
+USER: I really appreciate all that you've done for me and I'm looking forward to continuing to work hard and contribute to the company's success.
+ASSISTANT: Okay, I'll draft the email for you. Is there anything else you need help with today?

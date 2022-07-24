@@ -1,0 +1,10 @@
+- TO: Housing Office
+- FROM: Tenant
+- SUBJECT: Housing Request
+- OPENING: I am writing to request information about housing options in the area.
+- BODY: I am interested in learning more about my housing options in the area and would appreciate any information you can provide. I am specifically interested in learning more about apartments in the area.
+- CLOSING: Thank you for your time and assistance. I look forward to hearing from you soon.
+
+PERFECT EMAIL:
+
+To whom it may concern, I am writing to request information about housing options in the area. I am interested in learning more about my housing options in the area and would appreciate any information you can provide. I am specifically interested in learning more about apartments in the area. Thank you for your time and assistance. I look forward to hearing from you soon. Sincerely, [Your Name]

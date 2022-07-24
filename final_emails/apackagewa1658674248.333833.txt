@@ -1,0 +1,5 @@
+A package was delivered to the wrong house and the person who received it wants to email the sender to let them know. They look up the sender's email address and compose a message letting them know that their package was delivered to the wrong house and that they will be happy to return it.
+
+PERFECT EMAIL:
+
+Hi, I'm sorry to let you know that your package was delivered to the wrong house. I will be happy to return it to you. Please let me know where to send it and I'll get it back to you as soon as possible. Thanks, [Your Name]

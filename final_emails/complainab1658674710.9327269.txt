@@ -1,0 +1,14 @@
+-To: Management
+-From: Employee
+-Subject: Complaint about working conditions
+-Body:
+-I am writing to complain about the working conditions in the office.
+-The temperature is always too hot/cold, the chairs are uncomfortable, and the noise level is too loud.
+-I have raised these issues before, but nothing has been done to improve the situation.
+-I am finding it difficult to concentrate and do my best work in these conditions.
+-I would appreciate it if you could take my concerns into consideration and make some changes.
+-Thank you.
+
+PERFECT EMAIL:
+
+Hello Management, I am writing to complain about the working conditions in the office. The temperature is always too hot/cold, the chairs are uncomfortable, and the noise level is too loud. I have raised these issues before, but nothing has been done to improve the situation. I am finding it difficult to concentrate and do my best work in these conditions. I would appreciate it if you could take my concerns into consideration and make some changes. Thank you. Best, [Employee]

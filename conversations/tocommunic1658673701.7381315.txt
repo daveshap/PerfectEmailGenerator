@@ -1,0 +1,10 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to communicate with campus security.
+ASSISTANT: Do you need to report an incident?
+USER: Yes, I need to report an incident.
+ASSISTANT: What kind of incident?
+USER: There was a suspicious person on campus.
+ASSISTANT: Okay, I can draft an email for you to report the incident. Is there anything else you need to include in the email?
+USER: No, that's all. Thank you.

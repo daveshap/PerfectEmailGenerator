@@ -1,0 +1,10 @@
+-TO: employees
+-FROM: human resources
+-SUBJECT: death in the family
+-intensions: to inform employees of a death in the family and to offer condolences
+-goals: to show employees that the company cares about them and to provide support during this difficult time
+-tone: sympathetic
+
+PERFECT EMAIL:
+
+Hi employees, I’m sorry to inform you that one of our employees has passed away. We would like to offer our condolences and support during this difficult time. If you need any time off or have any other questions, please don’t hesitate to contact human resources. Again, we’re sorry for your loss and our thoughts are with you during this difficult time.

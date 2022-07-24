@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask student services for help.
+ASSISTANT: What do you need help with?
+
+PERFECT EMAIL:
+
+Hello Student Services, I am writing to ask for your help. I am having difficulties with ____________ and I was hoping you could help me. Thank you for your time, Sincerely, ____________

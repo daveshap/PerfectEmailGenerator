@@ -1,0 +1,15 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to congratulate someone at work.
+ASSISTANT: Who do you need to congratulate?
+USER: My boss.
+ASSISTANT: What do you need to say to your boss?
+USER: I need to say congratulations on a job well done.
+ASSISTANT: Is there anything else you need to say?
+USER: No, that's it.
+ASSISTANT: Okay, I'll get started on the email.
+
+PERFECT EMAIL:
+
+Hi Boss, I wanted to say congratulations on a job well done. You have worked hard and achieved a lot. Keep up the good work! Best, [Your Name]

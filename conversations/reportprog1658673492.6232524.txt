@@ -1,0 +1,8 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to report progress on a project at work.
+ASSISTANT: Do you have any specific details you would like to include?
+USER: Yes, I would like to include that we are on track to meet our deadline and that we are making good progress.
+ASSISTANT: Would you like to include anything else?
+USER: No, that should be it. Thank you!

@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to welcome my new neighbor.
+ASSISTANT: Okay, what would you like the email to say specifically?
+USER: I'd like it to say something like, "Welcome to the neighborhood! We're so glad to have you here."
+ASSISTANT: Is there anything else you'd like to say?
+USER: Just that we're looking forward to getting to know them.
+
+PERFECT EMAIL:
+
+Hi there! Welcome to the neighborhood! We're so glad to have you here and we're looking forward to getting to know you better. If you ever need anything, don't hesitate to reach out - we're always happy to help out a neighbor. Best, [Your name]

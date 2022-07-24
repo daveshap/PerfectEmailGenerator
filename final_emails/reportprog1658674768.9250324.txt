@@ -1,0 +1,9 @@
+-Start with a clear subject line that states the purpose of the email
+-In the TO field, include your boss and any other relevant colleagues
+-In the FROM field, include your name and job title
+-In the email body, clearly state the project you are reporting on, your progress to date, and any remaining goals
+-End with a positive and professional tone
+
+PERFECT EMAIL:
+
+Subject: Project Update Hi Boss, I just wanted to give you a quick update on the project I've been working on. I'm almost done and I should be able to wrap it up by the end of the week. Thanks, [Your name]

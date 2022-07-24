@@ -1,0 +1,10 @@
+-TO: professor's email
+-FROM: student's email
+-SUBJECT: Upcoming Exam
+-Intentions: To remind professor of upcoming exam and ask for help
+-Goals: To do well on the exam
+-Tone: Polite and respectful
+
+PERFECT EMAIL:
+
+Hello Professor Smith, I wanted to remind you that our upcoming exam is scheduled for next Wednesday. I am a little worried about the material and was hoping you could give me some tips on how to study for it. If you have the time, could we please meet for a brief review session? I would really appreciate it. Thank you for your time and have a great day. Best, John

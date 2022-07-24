@@ -1,0 +1,8 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to accept help at work.
+ASSISTANT: Do you need to accept help from a specific person or from anyone?
+USER: From anyone.
+ASSISTANT: Do you want to say anything specific in the email?
+USER: Just that I'm willing to accept help from anyone who offers it.

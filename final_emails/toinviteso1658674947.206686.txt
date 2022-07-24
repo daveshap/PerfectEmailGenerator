@@ -1,0 +1,10 @@
+-TO: church event coordinator
+-FROM: event planner
+-SUBJECT: Request for speaking engagement
+-Intentions: to request that the church event coordinator book a speaker for an upcoming event
+-Goals: to provide information about the event and what kind of speaker would be a good fit
+-Tone: formal
+
+PERFECT EMAIL:
+
+Dear church event coordinator, I am writing to request that you book a speaker for an upcoming event. The event is a conference on environmentalism, and we are looking for a speaker who can talk about the intersection of faith and environmentalism. If you have a speaker in mind who you think would be a good fit for this event, please let me know. I am happy to provide additional information about the event and what we are looking for in a speaker. Thank you for your time and consideration. Sincerely, Event planner

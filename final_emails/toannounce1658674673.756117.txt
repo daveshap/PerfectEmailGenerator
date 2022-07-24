@@ -1,0 +1,14 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to announce a death in the family.
+ASSISTANT: I'm sorry to hear that. Who do you need to notify?
+USER: I need to notify my company.
+ASSISTANT: Okay, what would you like the email to say?
+USER: I would like the email to say that my grandfather has passed away and the funeral will be held on such and such a date.
+ASSISTANT: Is there anything else you would like to include?
+USER: No, that's all. Thank you.
+
+PERFECT EMAIL:
+
+Hello, I regret to inform you that my grandfather has passed away. His funeral will be held on such and such a date. Thank you.

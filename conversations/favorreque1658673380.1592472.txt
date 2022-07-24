@@ -1,0 +1,5 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask a favor from my friends or family.
+ASSISTANT: What is the favor you need to ask?

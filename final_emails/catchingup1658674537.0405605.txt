@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I want to catch up with some friends or family.
+ASSISTANT: Who do you want to catch up with?
+
+PERFECT EMAIL:
+
+Hello, I hope this message finds you well. I was thinking about you recently and would love to catch up. Are you free for coffee or lunch sometime this week? Let me know when you have a chance and we'll work out a time. Best, [Your Name]

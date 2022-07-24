@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to decline a meeting at work.
+ASSISTANT: OK. Can you give me some more information about the meeting?
+USER: It's a meeting with my boss.
+ASSISTANT: What do you need to say in the email?
+USER: I need to say that I'm sorry, but I can't make it to the meeting.
+ASSISTANT: Is there a reason you can't make it to the meeting?
+USER: I'm not feeling well.
+ASSISTANT: OK. I can draft an email for you saying that you're sorry, but you can't make it to the meeting because you're not feeling well. Does that sound good?
+USER: That sounds great. Thank you!

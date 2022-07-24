@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to request a favor at work.
+ASSISTANT: What is the favor you need to request?
+USER: I need to ask for a day off.
+ASSISTANT: Why do you need a day off?
+USER: I need to take care of a personal matter.
+ASSISTANT: What is the personal matter you need to take care of?
+USER: I need to take my dog to the vet.
+ASSISTANT: Is there anything else you need to include in the email?
+USER: No, that's it. Thanks!

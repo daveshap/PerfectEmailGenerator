@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to announce a new baby.
+ASSISTANT: Do you want to announce the baby's name?
+USER: Yes, I want to announce the baby's name.
+ASSISTANT: What is the baby's name?
+USER: The baby's name isJohn Smith.
+ASSISTANT: Okay, I will draft an email announcing the baby's name.

@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask for advice from a family member.
+ASSISTANT: What advice do you need?
+
+PERFECT EMAIL:
+
+Hi [family member], I hope all is well with you. I'm reaching out to you for some advice. [explain situation]. I would really appreciate your help. Thanks, [Your name]

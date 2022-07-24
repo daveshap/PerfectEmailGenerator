@@ -1,0 +1,19 @@
+-TO: 
+-FROM: 
+-SUBJECT: 
+-Inquiring about graduation requirements
+-What are the requirements to graduate?
+-What are the consequences if I don't meet the requirements?
+-What are my options if I'm not able to meet the requirements?
+-What is the process for appealing a decision?
+-What is the timeline for graduating?
+-What are the steps I need to take to graduate?
+-What supporting documentation do I need to provide?
+-What is the contact information for someone who can help me with this?
+-Tone: 
+-Purpose: 
+-Intention:
+
+PERFECT EMAIL:
+
+To Whom it May Concern, I am writing to inquire about the graduation requirements. I would like to know what the requirements are, what the consequences are if I don't meet them, and what my options are if I'm not able to meet them. I would also like to know the process for appealing a decision and the timeline for graduating. Finally, I would like to know what the steps I need to take to graduate and what supporting documentation I need to provide. Thank you for your time and assistance. Sincerely, [Your Name]

@@ -1,0 +1,10 @@
+- TO: Church congregation
+- FROM: Church leadership
+- SUBJECT: Change in service times
+- INTENTIONS: To inform the congregation of a change in service times
+- GOALS: To ensure that the congregation is aware of the change and can make necessary adjustments
+- TONE: Formal
+
+PERFECT EMAIL:
+
+Dear church congregation, We wanted to let you know that we have made a change to our service times. Starting next week, services will be held at 9:00am and 11:00am. We hope that this change will be beneficial to everyone and that you can make the necessary adjustments. Thank you for your understanding. Sincerely, Church leadership

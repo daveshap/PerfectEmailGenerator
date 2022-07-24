@@ -1,0 +1,11 @@
+-TO: Boss
+-FROM: Employee
+-SUBJECT: Request for flexible hours
+-I am writing to request more flexible hours. 
+-I would like to (explain what you would like to do). 
+-I think this would be beneficial because (explain how this would be beneficial).
+-Thank you for your time and consideration.
+
+PERFECT EMAIL:
+
+Subject: Request for Flexible Hours Hello Boss, I am writing to request more flexible hours. I know that the company is currently going through a lot of changes, and I think that having more flexible hours would be beneficial for me and my team. I think this would be beneficial because it would allow us to be more productive and get our work done more efficiently. Thank you for your time and consideration. I look forward to hearing from you soon.

@@ -1,0 +1,10 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need it to be a follow up email from a B2B sales guy.
+ASSISTANT: Who is the email going to?
+USER: It's going to my boss.
+ASSISTANT: What do you want the email to say?
+USER: I want it to say that I followed up with the prospect and they're interested in our product.
+ASSISTANT: Is there anything else you want to include in the email?
+USER: No, that's it.

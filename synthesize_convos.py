@@ -17,11 +17,11 @@ def save_file(filepath, content):
 
 openai.api_key = open_file('openaiapikey.txt')
 
-modifiers = open_file('baseline_intents.txt').splitlines()
+scenarios = open_file('baseline_intents.txt').splitlines()
 
 
 
-def gpt3_completion(prompt, engine='text-davinci-002', temp=1.0, top_p=1.0, tokens=2000, freq_pen=0.0, pres_pen=0.0, stop=['asdfasdf', 'asdasdf']):
+def gpt3_completion(prompt, engine='text-davinci-002', temp=1.0, top_p=1.0, tokens=1000, freq_pen=0.0, pres_pen=0.0, stop=['asdfasdf', 'asdasdf']):
     max_retry = 5
     retry = 0
     prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
@@ -50,10 +50,14 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=1.0, top_p=1.0, toke
 
 
 if __name__ == '__main__':
-    for modifier in modifiers:
-        prompt = open_file('prompt_convo.txt').replace('<<MODIFIER>>', modifier).replace('<<UUID>>', str(uuid4()))
+    for scenario in scenarios:
+        prompt = open_file('prompt_convo.txt').replace('<<SCENARIO>>', scenario).replace('<<UUID>>', str(uuid4()))
         print('\n\n==========\n\n', prompt)
         completion = gpt3_completion(prompt)
-        filename = modifier.replace(' ','').lower()[0:10] + str(time()) + '.txt'
+        completion = '''ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: %s''' % completion
+        filename = scenario.replace(' ','').lower()[0:10] + str(time()) + '.txt'
         save_file('conversations/%s' % filename, completion)
         print('\n\n', completion)

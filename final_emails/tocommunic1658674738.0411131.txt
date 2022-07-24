@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to communicate with my academic advisor.
+ASSISTANT: What do you need to say to your academic advisor?
+
+PERFECT EMAIL:
+
+Hello Advisor, I hope you are doing well. I have a question I wanted to ask you about my course load for next semester. I am considering taking 5 classes, but I wanted to get your opinion on whether or not that is too many. Thank you for your time, [Your Name]

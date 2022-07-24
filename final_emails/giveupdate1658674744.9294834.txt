@@ -1,0 +1,11 @@
+- TO: boss
+- FROM: employee
+- SUBJECT: Project update
+
+- Give brief overview of what the project is and what the update is
+- Be respectful and professional
+- Be clear and concise
+
+PERFECT EMAIL:
+
+Dear boss, I wanted to give you a brief update on the project I've been working on. We're on schedule and everything is going well. I just wanted to keep you in the loop and let you know that we're on track. Thanks, Employee

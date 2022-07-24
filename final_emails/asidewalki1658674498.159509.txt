@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to email my boss and ask for a raise.
+ASSISTANT: Any specific details you need included?
+USER: I've been working here for two years and I think I deserve a raise.
+ASSISTANT: Okay, I can draft that email for you. Is there anything else you need me to include?
+USER: No, that's all. Thank you!
+
+PERFECT EMAIL:
+
+Hi boss, I wanted to reach out and request a meeting to discuss my salary. I've been with the company for two years now and I think I deserve a raise. I would be happy to provide additional justification for this request during our meeting. Thank you for your time and consideration. Best, [Your Name]

@@ -1,0 +1,13 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to tell my family that I'm getting married.
+ASSISTANT: Do you have any details you can give me about the wedding?
+USER: It's going to be a small ceremony, just immediate family.
+USER: We're not sure when or where yet, but we're working on it.
+ASSISTANT: Okay, I can draft an email for you telling your family that you're getting married, and provide some basic information like that. Is there anything else you'd like me to include?
+USER: No, that's it. Thank you!
+
+PERFECT EMAIL:
+
+Dear Family, I am excited to announce that I am getting married! We are still working out the details, but the ceremony will be small and only immediate family will be in attendance. I will let you know as soon as we have a date and location finalized. I cannot wait to share this special day with all of you! Love, [User]

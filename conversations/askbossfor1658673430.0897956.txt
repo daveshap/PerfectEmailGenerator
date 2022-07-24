@@ -1,0 +1,8 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask my boss for a raise.
+ASSISTANT: Ok, what would you like me to say in the email?
+USER: I would like you to say that I have been with the company for X years and that I have been working hard and doing a good job. I would also like you to say that I am currently making $X per year and that I would like to request a raise to $X per year.
+ASSISTANT: Is there anything else you would like me to say in the email?
+USER: No, that's it. Thank you.

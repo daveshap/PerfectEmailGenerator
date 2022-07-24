@@ -1,0 +1,10 @@
+- TO: academic advisor
+- FROM: student
+- SUBJECT: Request for help
+- Message should express the student's need for help and explain the situation
+- Student should be polite and respectful
+- Tone should be formal
+
+PERFECT EMAIL:
+
+Dear Professor Smith, I hope you are well. I am having some difficulty in my Chemistry class and was hoping to get some help. I am available to meet during your office hours or at another time that is convenient for you. Thank you for your time and help. Sincerely, John Doe

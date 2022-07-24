@@ -1,0 +1,14 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask my boss for a promotion.
+ASSISTANT: Okay. What position are you asking for?
+USER: I want to be the manager of the team.
+ASSISTANT: And what team do you manage?
+USER: I manage the Sales team.
+ASSISTANT: Okay. What do you want the email to say?
+USER: I want to ask my boss for a promotion to the manager position of the Sales team.
+
+PERFECT EMAIL:
+
+Hi boss, I'm writing to ask for a promotion to the manager position of the Sales team. I feel that I have the necessary skills and experience for the job and I'm confident that I can lead the team to success. I would appreciate your consideration, and I look forward to hearing from you. Thank you, [Your name]

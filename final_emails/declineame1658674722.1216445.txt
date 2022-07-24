@@ -1,0 +1,10 @@
+- TO: Boss 
+- FROM: Employee 
+- SUBJECT: Declining Meeting Request 
+- I'm sorry, but I won't be able to make the meeting. 
+- I have a prior engagement that I cannot miss. 
+- I'll be happy to provide a detailed update afterwards.
+
+PERFECT EMAIL:
+
+Hello boss, I regret to inform you that I will not be able to make the meeting. I have a prior engagement that I cannot miss. I'll be happy to provide a detailed update afterwards. Sincerely, Employee

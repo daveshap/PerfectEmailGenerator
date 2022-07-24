@@ -1,0 +1,10 @@
+-TO: Manager 
+-FROM: subordinate 
+-SUBJECT: Vendor Status
+-The email should include an overview of the current vendor situation, including any possible delays or issues that have arisen.
+-The email should be clear and concise, without going into too much detail.
+-The tone of the email should be businesslike and professional.
+
+PERFECT EMAIL:
+
+Hello Manager, I wanted to provide an update on the status of our vendors. There have been some delays and issues that have arisen. However, I am confident that we will be able to resolve them. I will keep you updated on any further developments. Thank you, [Subordinate]

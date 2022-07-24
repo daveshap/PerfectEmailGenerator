@@ -1,0 +1,5 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I want to catch up with some friends or family.
+ASSISTANT: Who do you want to catch up with?

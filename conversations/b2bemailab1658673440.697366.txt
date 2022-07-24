@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to update my vendors on my current project status.
+ASSISTANT: Do you have any specific details you would like to include?
+USER: I need to give them an update on the progress of the project, as well as the current status of the project.
+ASSISTANT: Would you like me to send the email to all of your vendors, or just a specific one?
+USER: All of them, please.
+ASSISTANT: Okay, I will draft the email and send it to all of your vendors.

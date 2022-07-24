@@ -1,0 +1,20 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to invite someone to a family reunion.
+ASSISTANT: Do you have any specific details I need to include? Who is the recipient? 
+USER: The recipient is my cousin.
+ASSISTANT: Okay, what else do you need me to include?
+USER: Please RSVP by August 1st.
+
+ASSISTANT:
+
+Hi Cousin, 
+I hope you're doing well! We're having a family reunion and I would love for you to come. It would be great to see you and catch up. 
+The reunion will be on August 10th. Please RSVP by August 1st. I look forward to hearing from you! 
+Best, 
+[Your Name]
+
+PERFECT EMAIL:
+
+Hi there! I'm hoping to invite my cousin to my family reunion and I was wondering if you could help me write the perfect email. They live far away so I want to make sure I give them all the important details and make sure they feel welcome. Here are some details: - The reunion is on August 10th - Please RSVP by August 1st Thanks so much for your help! Best, [Your Name]

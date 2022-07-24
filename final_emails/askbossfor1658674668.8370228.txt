@@ -1,0 +1,13 @@
+- From: Employee
+- To: Boss
+- Subject: Request for new project
+
+- Employee is requesting a new project from the boss
+- Tone should be polite and professional
+- Goals should be to gain boss's approval for the new project
+- Reasons for requesting the new project should be included
+- Any previous successes with similar projects should be mentioned
+
+PERFECT EMAIL:
+
+Hi boss, I wanted to come to you with a new project idea that I think could be really beneficial for the company. I have a lot of experience with similar projects and I think I could really excel with this one. I would appreciate your approval to get started on this new project. I promise to deliver great results and I think it could really help the company reach its goals. Thank you for your time, [Employee]

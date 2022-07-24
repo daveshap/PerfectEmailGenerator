@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask campus security for help.
+ASSISTANT: What do you need help with?
+
+PERFECT EMAIL:
+
+Hi Campus Security, I am writing to ask for your help. I am in [location] and I need assistance with [problem]. Can you please help me? Thank you, [Your name]

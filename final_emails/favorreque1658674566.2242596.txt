@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask a favor from my friends or family.
+ASSISTANT: What is the favor you need to ask?
+
+PERFECT EMAIL:
+
+Hello friends and family, I am writing to ask a favor. I am in need of some help and I hope that you can assist me. I am extremely grateful for any assistance that you can provide. Thank you, [Your name]

@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to resign from my job.
+ASSISTANT: Do you need to give notice?
+USER: Yes, I need to give a two week notice.
+ASSISTANT: Okay, is there anything else you need the email to say?
+USER: No, that's it.
+ASSISTANT: All right, I'll go ahead and draft the email for you.

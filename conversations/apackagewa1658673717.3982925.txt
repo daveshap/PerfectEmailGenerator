@@ -1,0 +1,11 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need it to say that a package was delivered to the wrong house.
+ASSISTANT: Okay, what happened?
+USER: I ordered a new phone online and it was delivered to the wrong house.
+ASSISTANT: Did you contact the company?
+USER: Yes, I called them and they said they would send another phone to the right address.
+ASSISTANT: Okay, so you just need the email to say that the package was delivered to the wrong house and that you contacted the company?
+USER: Yes, that's it.
+ASSISTANT: Okay, I'll draft the email for you.

@@ -1,0 +1,14 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to update my friends on the progress of our group project.
+ASSISTANT: Do you want to give me more details?
+USER: Sure. We're working on a project for school and I need to update my friends on our progress.
+ASSISTANT: Do you want to give me a little more information?
+USER: Well, we're supposed to be working on the project together, but I've been doing most of the work. I just want to update them on where we're at and what still needs to be done.
+ASSISTANT: Is there anything else you want to say?
+USER: No, that's it.
+
+PERFECT EMAIL:
+
+Hi Everyone, I just wanted to update you on our group project. We're making good progress, but there's still a lot to do. I'll be sending out another update soon. Thanks, [Your Name]

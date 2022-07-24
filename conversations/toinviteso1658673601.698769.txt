@@ -1,0 +1,21 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to invite someone to church.
+ASSISTANT: Who do you need to invite?
+USER: My friend.
+ASSISTANT: What's your friend's name?
+USER: John.
+ASSISTANT: What's John's email address?
+USER: john@email.com
+ASSISTANT: What church do you want to invite John to?
+USER: My church.
+ASSISTANT: What's the name of your church?
+USER: First Church of Christ.
+ASSISTANT: When do you want to invite John to church?
+USER: This Sunday.
+ASSISTANT: What time is church this Sunday?
+USER: 10:00 am.
+ASSISTANT: Do you want to include anything else in the email?
+USER: No, that's it.
+ASSISTANT: Okay, I'll draft the email for you.

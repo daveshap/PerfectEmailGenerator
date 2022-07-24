@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I am requesting time off from work.
+ASSISTANT: How much time off are you requesting?
+
+PERFECT EMAIL:
+
+Hello [INSERT NAME], I am writing to request [NUMBER] days of vacation time. I would like this time off to [REASON FOR TIME OFF]. I understand that this may not be possible, but I appreciate your consideration. Thank you for your time. Sincerely, [YOUR NAME]

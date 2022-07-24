@@ -1,0 +1,8 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to communicate with the registrar's office.
+
+PERFECT EMAIL:
+
+Hi there, I'm writing to the registrar's office to inquire about a course I'm interested in taking. I was wondering if you could tell me what the prerequisites are for the course? Thank you for your time, [Your name]

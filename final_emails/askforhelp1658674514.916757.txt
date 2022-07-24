@@ -1,0 +1,16 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask for help with a project at work.
+ASSISTANT: Who do you need to ask for help?
+USER: My boss.
+ASSISTANT: What do you need help with specifically?
+USER: I need help with the budget for the project.
+ASSISTANT: Do you have a budget in mind?
+USER: I was thinking of asking for $1,000.
+ASSISTANT: Okay, I can draft an email for you asking for help with the budget for the project. Is there anything else you need to include in the email?
+USER: No, that's it. Thank you!
+
+PERFECT EMAIL:
+
+Hi boss, I'm working on a project and I was hoping to get some help with the budget. I was thinking of asking for $1,000. Let me know what you think. Thanks, [Employee]

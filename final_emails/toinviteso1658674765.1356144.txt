@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to invite someone to speak at a church event.
+ASSISTANT: Do you have any specific details you need to include in the email?
+USER: Just the usual stuff. The date, time, and location of the event, and a brief description of what the event is.
+ASSISTANT: Okay, I can draft that up for you. Is there anything else you need to include?
+USER: Nope, that's it. Thanks!
+
+PERFECT EMAIL:
+
+Hello, We are pleased to invite you to speak at our upcoming church event. The event will be held on iday, atime, and the location is church address. This event is an excellent opportunity to reach out to our church community and share your message. We hope you will be able to join us. Thank you for your time, Assistant

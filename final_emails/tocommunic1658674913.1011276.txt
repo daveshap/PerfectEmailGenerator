@@ -1,0 +1,10 @@
+- TO: financial aid office
+- FROM: student
+- SUBJECT: inquiry about financial aid
+- INTENTIONS: to get more information about financial aid and how to apply for it
+- GOALS: to receive financial aid for the upcoming school year
+- TONE: polite and inquisitive
+
+PERFECT EMAIL:
+
+Hello, I am writing to inquire about financial aid and how to apply for it. I am interested in receiving financial aid for the upcoming school year and would like to know more about the process. Can you provide me with more information? Thank you, [student]

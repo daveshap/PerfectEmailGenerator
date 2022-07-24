@@ -1,0 +1,5 @@
+<<UUID>>
+Write a messy email. It should be misspelled, unclear, angry, grumpy, or aggressive. Be creative and use your imagination to fill in details. The topic is: <<SCENARIO>>
+
+
+MESSY EMAIL:

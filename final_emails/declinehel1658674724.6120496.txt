@@ -1,0 +1,11 @@
+- TO: boss
+- FROM: employee
+- SUBJECT: Declining help
+- DECLINE REASON: don't want to be a burden, want to prove independence
+- GOAL: show boss that employee is capable and wants to be seen as such
+- PROACTIVE SUGGESTION: offer to help with a different task that won't be as demanding
+- TONE: respectful, positive
+
+PERFECT EMAIL:
+
+Hi boss, I appreciate your offer to help me with that project, but I don't want to be a burden. I'm confident I can handle it on my own and I really want to prove my independence. But I would be happy to help with something else if you need an extra hand. Let me know if there's anything I can do. Thanks, Employee

@@ -1,0 +1,10 @@
+-TO: registrar@school.edu
+-FROM: student@school.edu
+-SUBJECT: Request for information
+-Intentions: To request information from the registrar's office
+-Goals: To receive information about registrar office procedures
+-Tone: Polite and professional
+
+PERFECT EMAIL:
+
+To whom it may concern, I am writing to request information about registrar office procedures. If you could provide me with some information about how to go about scheduling an appointment or obtaining transcripts, I would greatly appreciate it. Thank you for your time, [Your name]

@@ -1,0 +1,10 @@
+-TO: Professor
+-FROM: Student
+-SUBJECT: Requesting help
+-Intentions: seeks guidance, wants to understand material
+-Goals: learn the material, do well in the class
+-Tone: humble, respectful
+
+PERFECT EMAIL:
+
+Dear Professor, I am struggling to understand the material in your class. I was hoping you could help me. I am eager to learn the material and do well in the class. Thank you for your time, [student name]

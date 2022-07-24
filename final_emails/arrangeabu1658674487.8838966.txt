@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to arrange a business lunch at work.
+ASSISTANT: Who do you need to invite to the lunch?
+
+PERFECT EMAIL:
+
+Hi there! I'm looking to arrange a business lunch at work and I was wondering if you could help me out. I need to invite a few people from the company, and I was wondering if you could draft an email for me. Thanks, [User]

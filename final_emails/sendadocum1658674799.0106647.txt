@@ -1,0 +1,10 @@
+-To: Staff
+-From: Manager
+-Subject: Request for document
+-Intentions: I am requesting a document from you
+-Goals: to obtain the document
+-Tone: polite
+
+PERFECT EMAIL:
+
+To Staff, I am writing to request a document from you. I would appreciate if you could provide me with the document as soon as possible. Thank you for your time and assistance. Sincerely, Manager

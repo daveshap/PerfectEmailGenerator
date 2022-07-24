@@ -1,0 +1,18 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to send a document at work.
+ASSISTANT: What is the document?
+USER: It's a report on the company's sales.
+ASSISTANT: Who do you need to send it to?
+USER: My boss.
+ASSISTANT: Do you want me to cc anyone on the email?
+USER: No, just my boss.
+ASSISTANT: What is the subject of the email?
+USER: Sales report for the quarter.
+ASSISTANT: Would you like me to draft the email for you?
+USER: Yes, please.
+
+PERFECT EMAIL:
+
+Hi boss, Please find the attached sales report for the quarter. Let me know if you have any questions. Best, [Your Name]

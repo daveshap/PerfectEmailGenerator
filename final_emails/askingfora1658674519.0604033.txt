@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask for advice from my friends or family.
+ASSISTANT: What kind of advice are you looking for?
+
+PERFECT EMAIL:
+
+Hi everyone, I'm looking for some advice and would love to hear your thoughts. I'm considering (option A), but I'm not sure if it's the right choice. I'm also considering (option B), but I'm not sure if it's the best option either. I would appreciate any advice or thoughts you have on this matter. Thank you!

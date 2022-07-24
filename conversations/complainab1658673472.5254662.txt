@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to complain about my working conditions.
+ASSISTANT: What specifically would you like to complain about?
+USER: I don't have enough space to work, there's too much noise, and I don't have the supplies I need.
+ASSISTANT: Okay, I can draft an email for you complaining about those specific working conditions. Is there anything else you'd like to include?
+USER: No, that's it.
+ASSISTANT: Okay, I'll go ahead and draft the email for you.

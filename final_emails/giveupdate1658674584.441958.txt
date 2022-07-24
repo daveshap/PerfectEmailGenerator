@@ -1,0 +1,16 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to give an update on a project at work.
+ASSISTANT: Okay, what project are you updating on?
+USER: We're working on a new product launch.
+ASSISTANT: What can you tell me about the project?
+USER: We're in the final stages of development and testing. We're on track to launch in the next few weeks.
+ASSISTANT: Do you have any additional details you can share?
+USER: We're really excited about this product and we think it's going to be a big success. I just wanted to give everyone an update on where we're at.
+ASSISTANT: Okay, I can draft something up for you. Is there anything else you need to include?
+USER: That's all for now, thank you.
+
+PERFECT EMAIL:
+
+Hey everyone, Just wanted to give you all a quick update on our new product launch. We're in the final stages of development and testing and everything is looking good. We're on track to launch in the next few weeks. We're really excited about this product and we think it's going to be a big success. Thanks for all your hard work and stay tuned for more updates. Cheers, [Your Name]

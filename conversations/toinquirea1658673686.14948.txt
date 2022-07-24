@@ -1,0 +1,11 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to inquire about graduation requirements.
+ASSISTANT: Okay, what specifically do you want to know?
+USER: I need to know what I need to do in order to graduate.
+ASSISTANT: Okay, let me see if I can find that information for you. Give me just a few minutes.
+USER: Sure, no problem.
+ASSISTANT: I'm sorry, I'm having a hard time finding that information. Can you give me a little more information about what you're looking for?
+USER: I need to know what classes I need to take and what the requirements are.
+ASSISTANT: Okay, I think I can find that information for you. Let me take a look and I'll get back to you soon.

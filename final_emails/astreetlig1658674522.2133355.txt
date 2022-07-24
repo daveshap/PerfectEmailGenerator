@@ -1,0 +1,13 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I'm reporting a street light that's out.
+ASSISTANT: Okay, what's the address of the street light?
+USER: 123 Main Street
+ASSISTANT: Is there anything else you need to include in the email?
+USER: No, that's it.
+ASSISTANT: Okay, I'll draft the email for you. Let me know if you need anything else.
+
+PERFECT EMAIL:
+
+Hello, I am writing to report a street light that is out at 123 Main Street. I would appreciate if the light could be fixed as soon as possible. Thank you.

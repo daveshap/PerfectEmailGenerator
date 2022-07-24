@@ -1,0 +1,10 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I want to send a funny meme to my friends.
+ASSISTANT: What is the meme?
+USER: It's a picture of a dog with a caption that says "I'm not a morning person."
+ASSISTANT: Who are you sending the meme to?
+USER: My friends.
+ASSISTANT: What is the purpose of the email?
+USER: I just want to make them laugh.

@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to thank my boss for giving me a raise.
+ASSISTANT: Is there anything else you would like to say in the email?
+USER:
+
+Yes, I would also like to express my appreciation for all the opportunities and trust that my boss has placed in me. I am truly grateful and look forward to continuing to contribute to the company's success.
+
+PERFECT EMAIL:
+
+Hi Boss, I wanted to say thank you for giving me a raise. I really appreciate it, and I'm grateful for all the opportunities and trust that you've placed in me. I'm looking forward to continuing to contribute to the company's success. Thanks again, [Your Name]

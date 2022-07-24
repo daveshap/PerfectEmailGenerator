@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to decline help at work.
+ASSISTANT: Okay, can you give me more information? Who are you declining help from?
+USER: My boss.
+ASSISTANT: Why are you declining help from your boss?
+USER: I don't need help.
+
+PERFECT EMAIL:
+
+Dear Boss, Thank you for offering to help me with my work, but I appreciate that you respect my ability to do the job on my own. I am confident that I can complete the task without assistance. Sincerely, Your employee

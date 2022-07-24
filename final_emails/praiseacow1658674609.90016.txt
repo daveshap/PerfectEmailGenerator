@@ -1,0 +1,11 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to praise a coworker.
+ASSISTANT: Who do you need to praise? 
+USER: John Doe.
+ASSISTANT: What do you want to say about John?
+
+PERFECT EMAIL:
+
+Dear John, I wanted to take a moment to let you know how much I appreciate your hard work. You always go above and beyond to get the job done, and it doesn't go unnoticed. Thank you for being such a great team member - I'm proud to work with you! Sincerely, [Your Name]

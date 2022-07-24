@@ -1,0 +1,11 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need it to be a marketing email about a fun new product.
+ASSISTANT: What is the product?
+USER: It's a new line of children's clothing.
+ASSISTANT: What do you want the email to say about the product?
+USER: I want it to say that the product is fun, stylish, and affordable.
+ASSISTANT: Is there anything else you want to say about the product?
+USER: No, that's it.
+ASSISTANT: Okay, I'll get started on the email.

@@ -1,0 +1,8 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to decline help at work.
+ASSISTANT: Okay, can you give me more information? Who are you declining help from?
+USER: My boss.
+ASSISTANT: Why are you declining help from your boss?
+USER: I don't need help.

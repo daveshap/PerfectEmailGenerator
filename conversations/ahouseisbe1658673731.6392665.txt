@@ -1,0 +1,8 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to sell my house.
+ASSISTANT: Okay, what do you want the email to say about your house?
+USER: I want to sell my house because I need to move.
+ASSISTANT: Okay, is there anything else you want to say about your house in the email?
+USER: No, that's it.

@@ -1,0 +1,5 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need it to be a marketing email to a specific customer.
+ASSISTANT: Do you have any specific details you can give me about what you would like the email to say?

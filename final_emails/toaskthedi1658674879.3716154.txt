@@ -1,0 +1,8 @@
+-State the purpose of the email in the subject line
+-In the body of the email, be polite and specific about what you need
+-Include a time frame for when you need the help
+-Thank the recipient in advance for their help
+
+PERFECT EMAIL:
+
+Subject: Request for help with XYZ project Hello [Name], I am writing to ask for your help with XYZ project. Specifically, I need assistance with ABC. I would appreciate your help with this as soon as possible. Thank you for your time and help. Sincerely, [Your name]

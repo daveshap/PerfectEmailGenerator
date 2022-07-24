@@ -1,0 +1,21 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask for help from a family member.
+ASSISTANT: Who specifically do you need to ask for help from?
+USER: My cousin.
+ASSISTANT: What do you need help with?
+USER: I need some money.
+ASSISTANT: How much money do you need?
+USER: $500.
+ASSISTANT: What do you need the money for?
+USER: I need to pay my rent.
+ASSISTANT: When do you need the money by?
+USER: The end of the month.
+ASSISTANT: Is there anything else you need to say in the email?
+USER: No, that's it.
+ASSISTANT: Okay, I'll draft the email for you.
+
+PERFECT EMAIL:
+
+Hi cousin, I hope all is well with you. I am writing to ask for a favor. I am in need of some financial assistance. I am wondering if you could lend me $500 to help pay my rent. I would be very grateful and would pay you back as soon as possible. Let me know if you are able to help. Thanks, [Your name]

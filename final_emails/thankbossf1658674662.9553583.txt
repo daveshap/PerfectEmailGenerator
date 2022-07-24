@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to thank my boss for a new project.
+ASSISTANT: What new project is this?
+
+PERFECT EMAIL:
+
+Hi boss, I wanted to say thanks for giving me the opportunity to work on the new project. I'm really excited to sink my teeth into it and deliver great results. Thank you for your faith in me - I won't let you down! Best, [User]

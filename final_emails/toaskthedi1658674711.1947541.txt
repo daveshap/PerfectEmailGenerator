@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to ask the dining hall for help.
+ASSISTANT: What do you need help with?
+
+PERFECT EMAIL:
+
+Hello Dining Hall Staff, I am writing to request some help. I am having trouble getting enough food to last me throughout the day, and I was wondering if there is anything the dining hall can do to help me out. Thank you for your time, and I hope to hear from you soon. Sincerely, [insert your name here]

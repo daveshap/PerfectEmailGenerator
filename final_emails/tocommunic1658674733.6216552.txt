@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to communicate with a professor about an upcoming exam.
+ASSISTANT: What do you want to say to the professor?
+
+PERFECT EMAIL:
+
+Hello Professor Smith, I am writing to let you know that I am very nervous about the upcoming exam. I have been studying very hard, but I am still worried that I will not do well. Is there any way you can give me some advice or help me to prepare for the exam? I would really appreciate it. Thank you, Student

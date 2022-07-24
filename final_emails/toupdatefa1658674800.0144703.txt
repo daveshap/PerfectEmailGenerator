@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to update my family members on my life.
+ASSISTANT: Anything specific you want to include?
+
+PERFECT EMAIL:
+
+Hi Family, I hope all is well! I wanted to update you on what's been going on with me. I moved to a new city and got a great new job. I'm really enjoying my work and the new city. I'm making lots of new friends. I miss you all and can't wait to come visit soon. Love, [User]

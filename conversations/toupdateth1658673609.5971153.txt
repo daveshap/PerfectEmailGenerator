@@ -1,0 +1,9 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to update the church on a mission trip.
+ASSISTANT: Do you have any specific details you would like to include?
+USER: We went to Mexico and built houses for families in need.
+ASSISTANT:
+
+Sure, I can include that information in the email. Would you like me to add anything else?

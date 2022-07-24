@@ -1,0 +1,11 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to cancel a meeting at work.
+ASSISTANT: Who do you need to cancel the meeting with?
+USER: My boss.
+ASSISTANT: What is the reason for cancelling the meeting?
+USER: I'm not feeling well.
+ASSISTANT: Do you want me to reschedule the meeting for you?
+USER: No, I don't think that will be necessary. I'll just cancel it outright.
+ASSISTANT: Alright, I'll go ahead and draft the email for you.

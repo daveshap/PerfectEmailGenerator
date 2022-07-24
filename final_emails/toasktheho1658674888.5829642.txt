@@ -1,0 +1,15 @@
+- TO: Housing Office
+- FROM: Student
+- SUBJECT: Request for help
+- Intentions: 
+  - To explain the situation
+  - To request help
+- Goals: 
+  - To receive help from the housing office
+- Tone: 
+  - Polite
+  - Appreciative
+
+PERFECT EMAIL:
+
+Hello, I am writing to reach out for help. Recently, I have been going through a difficult time and have not been able to keep up with my rent. I would be extremely grateful if the housing office could provide me with some assistance. Thank you for your time and consideration. Sincerely, [Your Name]

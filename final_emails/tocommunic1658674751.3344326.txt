@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER: I need to communicate with the dining hall about my food allergies.
+ASSISTANT: Sure, I can help with that. What allergy do you have?
+USER: I'm allergic to peanuts.
+ASSISTANT: Okay, I can include that in the email. Is there anything else you need to say?
+USER: No, that's all. Thanks!
+
+PERFECT EMAIL:
+
+Hi there, I wanted to reach out and let you know that I have a peanut allergy. I would appreciate it if the dining hall could take my allergy into consideration when preparing meals. Thank you for your time and attention to this matter. Sincerely, [Your Name]
