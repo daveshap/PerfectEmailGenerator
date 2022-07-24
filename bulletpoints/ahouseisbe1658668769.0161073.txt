@@ -1,0 +1,9 @@
+- From: The sellers of the house
+- To: The buyers of the house
+- Subject: The sale of the house
+- Body: 
+  - We are pleased to inform you that the sale of the house has been completed. 
+  - We would like to thank you for your interest in the property and hope that you will enjoy your new home. 
+  - Please do not hesitate to contact us if you have any questions or concerns. 
+  - Thank you, 
+  - The sellers

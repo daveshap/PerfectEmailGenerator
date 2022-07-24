@@ -1,0 +1,8 @@
+-TO: Your boss
+-FROM: You
+-SUBJECT: Request for help with project
+-Body: 
+-I am working on a project that is due soon and I am feeling overwhelmed.
+-I was hoping I could ask for help from you or someone on your team.
+-I am confident I can complete the project on my own but could use some assistance.
+-Thank you for your time and consideration.

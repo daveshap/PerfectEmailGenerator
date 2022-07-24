@@ -1,0 +1,6 @@
+-TO: Family member
+-FROM: You
+-SUBJECT: Apology
+-INTENTIONS: To sincerely apologize for your actions and to make amends
+-GOALS: To repair the relationship and rebuild trust
+-TONE: Sincere, remorseful, contrite

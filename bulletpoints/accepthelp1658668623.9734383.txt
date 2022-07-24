@@ -1,0 +1,10 @@
+-TO: supervisor
+-FROM: subordinate
+-SUBJECT: Request for help
+-I am feeling overwhelmed with my current workload and I was wondering if you could help me out.
+-I appreciate all the opportunities you have given me and I am very grateful for them. I just need a little help right now.
+-I hope that this email finds you well.
+
+-Sincerely,
+
+[subordinate]

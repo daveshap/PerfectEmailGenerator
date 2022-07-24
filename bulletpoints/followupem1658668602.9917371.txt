@@ -1,0 +1,13 @@
+-TO: B2B sales guy
+-FROM: His manager
+-SUBJECT: Follow up on sale
+-Intentions:
+-To see if the sale went through
+-To see if the B2B sales guy needs help
+-To find out if there are any potential problems
+- Goals:
+-To make sure the sale went through
+-To help the B2B sales guy if he needs it
+-To find out about any potential problems
+-Tone:
+- supportive

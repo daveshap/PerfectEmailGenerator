@@ -1,0 +1,9 @@
+-TO: boss
+-FROM: employee
+-SUBJECT: Request for a Raise
+-I am writing to request a raise.
+-I have been with the company for X years and have been an exemplary employee.
+-I have taken on additional responsibilities/ projects and have consistently met/exceeded expectations.
+-I believe that my current salary does not reflect my value to the company.
+-I would like to schedule a meeting to discuss this further.
+-Thank you for your time.

@@ -1,0 +1,6 @@
+-TO: professor's email
+-FROM: student's email
+-SUBJECT: Upcoming Exam
+-Intentions: To remind professor of upcoming exam and ask for help
+-Goals: To do well on the exam
+-Tone: Polite and respectful

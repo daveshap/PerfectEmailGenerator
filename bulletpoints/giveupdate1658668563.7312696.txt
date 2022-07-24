@@ -1,0 +1,7 @@
+- TO: boss
+- FROM: employee
+- SUBJECT: Project update
+
+- Give brief overview of what the project is and what the update is
+- Be respectful and professional
+- Be clear and concise

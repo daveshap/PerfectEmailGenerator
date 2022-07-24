@@ -1,0 +1,7 @@
+- TO: boss
+- FROM: employee
+- SUBJECT: Declining help
+- DECLINE REASON: don't want to be a burden, want to prove independence
+- GOAL: show boss that employee is capable and wants to be seen as such
+- PROACTIVE SUGGESTION: offer to help with a different task that won't be as demanding
+- TONE: respectful, positive

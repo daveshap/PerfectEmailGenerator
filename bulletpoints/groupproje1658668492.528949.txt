@@ -1,0 +1,6 @@
+- TO: Group project friends
+- FROM: Group project leader
+- SUBJECT: Group project update
+- Intentions: Keep friends updated on project status, ask for help if needed
+- Goals: Finish project on time, learn from experience
+- Tone: Enthusiastic, positive

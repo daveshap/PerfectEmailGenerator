@@ -1,0 +1,8 @@
+-TO: parents
+-FROM: kids
+-SUBJECT: Fun!
+-kids running through back yards
+-parents following behind
+- intention: to have fun
+- goal: to make it to the end without getting caught
+- tone: playful

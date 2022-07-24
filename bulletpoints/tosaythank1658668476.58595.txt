@@ -1,0 +1,16 @@
+TO: {Recipient}
+ FROM: {Sender}
+ SUBJECT: A heartfelt thank you
+ 
+ intentions:
+ To show my appreciation for all that you do
+ 
+ goals:
+ 
+ To let you know how much I appreciate you and all that you do for me
+ 
+ To express my gratitude for your presence in my life
+ 
+ tone:
+ 
+ Heartfelt and sincere

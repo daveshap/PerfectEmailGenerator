@@ -1,0 +1,8 @@
+- TO: recognition@company.com
+- FROM: yourname@company.com
+- SUBJECT: Congrats on the great work!
+
+- Include a link to the work that was done
+- Congratulate the person on a job well done
+- Reinforce company values
+- Tone should be positive and congratulatory

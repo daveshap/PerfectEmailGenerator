@@ -1,0 +1,6 @@
+- TO: financial aid office
+- FROM: student
+- SUBJECT: inquiry about financial aid
+- INTENTIONS: to get more information about financial aid and how to apply for it
+- GOALS: to receive financial aid for the upcoming school year
+- TONE: polite and inquisitive

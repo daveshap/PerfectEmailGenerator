@@ -1,0 +1,8 @@
+- To: name@email.com
+- From: name@email.com
+- Subject: Request for advice
+- Hi name,
+- I'm hoping to get your advice on something that's been on my mind.
+- I'd really appreciate your help.
+- Thanks,
+- Your name

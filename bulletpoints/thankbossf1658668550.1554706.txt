@@ -1,0 +1,6 @@
+-TO:Boss
+-FROM: Employee
+-SUBJECT: Thank you for the promotion!
+-Intentions: to express gratitude for the promotion
+-goals: to maintain a good relationship with the boss
+-tone: thankful

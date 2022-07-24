@@ -1,0 +1,5 @@
+-TO: Friend 
+-FROM: You 
+-SUBJECT: You're invited! 
+-BODY: Hey there! I hope you're doing well. I just wanted to invite you to come to church with me on Sunday. I think you would really like it. Let me know if you're interested. 
+-Have a great day!

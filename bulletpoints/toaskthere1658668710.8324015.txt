@@ -1,0 +1,9 @@
+- To: registrar@university.edu
+- From: me@university.edu
+- Subject: Request for Help
+- Body: 
+  - I am having trouble registering for classes and was hoping for some help. 
+  - I am not sure if I am doing something wrong, or if there is a problem with the system. 
+  - I have tried to register several times, but keep getting error messages. 
+  - Can someone please help me? 
+- Thank you.

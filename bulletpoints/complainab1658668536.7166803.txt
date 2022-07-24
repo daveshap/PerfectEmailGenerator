@@ -1,0 +1,8 @@
+-SUBJECT: Complaint about John
+-TO: boss@company.com
+-FROM: me@company.com
+-I would like to lodge a complaint about my coworker John.
+-I feel that he is not pulling his weight and is not doing his fair share of the work.
+-I have spoken to him about this issue several times, but he has not made any effort to change his behavior.
+-I would appreciate if you could speak to him about this issue.
+-Thank you.

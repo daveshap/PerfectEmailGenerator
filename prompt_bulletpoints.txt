@@ -1,0 +1,6 @@
+<<UUID>>
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: <<MODIFIER>>
+
+BULLET POINTS:

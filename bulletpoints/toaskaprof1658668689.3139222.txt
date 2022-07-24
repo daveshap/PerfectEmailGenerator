@@ -1,0 +1,6 @@
+-TO: Professor
+-FROM: Student
+-SUBJECT: Requesting help
+-Intentions: seeks guidance, wants to understand material
+-Goals: learn the material, do well in the class
+-Tone: humble, respectful

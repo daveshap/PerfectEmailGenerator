@@ -1,0 +1,11 @@
+- TO: Housing Office
+- FROM: Student
+- SUBJECT: Request for help
+- Intentions: 
+  - To explain the situation
+  - To request help
+- Goals: 
+  - To receive help from the housing office
+- Tone: 
+  - Polite
+  - Appreciative

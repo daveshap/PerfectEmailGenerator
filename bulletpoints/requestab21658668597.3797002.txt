@@ -1,0 +1,7 @@
+- TO: Vendor
+- FROM: Company
+- SUBJECT: Request for B2C document
+- Include company name and contact information
+- Mention what document is needed
+- Give a deadline for when the document is needed
+- Be polite and courteous

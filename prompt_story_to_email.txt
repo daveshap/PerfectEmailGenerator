@@ -1,0 +1,7 @@
+Given the following scenario, write the perfect email.
+
+
+SCENARIO: <<SCENARIO>>
+
+
+PERFECT EMAIL:

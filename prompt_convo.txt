@@ -1,0 +1,10 @@
+<<UUID>>
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: <<SCENARIO>>
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

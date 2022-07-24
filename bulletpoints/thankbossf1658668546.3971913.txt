@@ -1,0 +1,6 @@
+-TO: boss
+-FROM: me
+-SUBJECT: Thank you for the raise
+-Intentions: to thank boss for the raise, express appreciation
+-Goals: to maintain a good relationship with boss
+-Tone: sincere and appreciative

@@ -1,0 +1,8 @@
+-TO: boss@company.com 
+-FROM: employee@company.com 
+-SUBJECT: Request for Time Off 
+-I am writing to request some time off from work. 
+-I am hoping to take two weeks off, from __/__/__ to __/__/__. 
+-I will be using my vacation days. 
+-I am requesting this time off in order to ___. 
+-Thank you for your time, and I look forward to hearing from you soon.

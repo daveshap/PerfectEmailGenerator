@@ -1,0 +1,4 @@
+<<UUID>>
+Write a detailed paragraph describing a scenario where one person has to write an email to another. Imagine the scenario and tell it like a story. What happened and why does the email need to be sent? Write only about sender. Intent: <<MODIFIER>>
+
+DETAILED SCENARIO:

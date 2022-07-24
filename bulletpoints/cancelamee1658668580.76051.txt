@@ -1,0 +1,6 @@
+-TO: Boss
+-FROM: Employee
+-SUBJECT: Cancelling Meeting
+-I'm sorry, but I need to cancel the meeting.
+-I apologize for any inconvenience this may have caused.
+-Thank you.

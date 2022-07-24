@@ -1,0 +1,5 @@
+-TO: teacher's email address
+-FROM: student's email address
+-SUBJECT: Questions about assignment
+-I am confused about what is expected for this assignment. Can you please clarify?
+-Thank you for your help.

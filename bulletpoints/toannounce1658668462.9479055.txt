@@ -1,0 +1,6 @@
+-TO: employees
+-FROM: human resources
+-SUBJECT: death in the family
+-intensions: to inform employees of a death in the family and to offer condolences
+-goals: to show employees that the company cares about them and to provide support during this difficult time
+-tone: sympathetic

@@ -1,0 +1,7 @@
+-TO: customer@email.com
+-FROM: company@email.com
+-SUBJECT: Customized product just for you!
+
+-Intention: to introduce a new product to the customer that has been tailored specifically for them
+-Goals: to get the customer interested in the product and encourage them to try it out
+-Tone: enthused, personal

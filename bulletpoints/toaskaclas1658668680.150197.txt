@@ -1,0 +1,6 @@
+-TO: the classmate you are asking for help
+-FROM: you
+-SUBJECT: Asking for help
+-Intentions: to explain what you need help with and why you are reaching out
+-Goals: to get help with the issue at hand
+-Tone: polite, friendly

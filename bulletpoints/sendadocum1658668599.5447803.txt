@@ -1,0 +1,6 @@
+-To: Staff
+-From: Manager
+-Subject: Request for document
+-Intentions: I am requesting a document from you
+-Goals: to obtain the document
+-Tone: polite

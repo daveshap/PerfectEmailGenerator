@@ -1,0 +1,6 @@
+-TO: church event coordinator
+-FROM: event planner
+-SUBJECT: Request for speaking engagement
+-Intentions: to request that the church event coordinator book a speaker for an upcoming event
+-Goals: to provide information about the event and what kind of speaker would be a good fit
+-Tone: formal

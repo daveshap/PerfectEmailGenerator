@@ -1,0 +1,6 @@
+-TO: registrar@school.edu
+-FROM: student@school.edu
+-SUBJECT: Request for information
+-Intentions: To request information from the registrar's office
+-Goals: To receive information about registrar office procedures
+-Tone: Polite and professional

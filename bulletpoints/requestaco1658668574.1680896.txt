@@ -1,0 +1,6 @@
+-TO: requestor's manager
+-FROM: requestor
+-SUBJECT: Request for a conference call
+-INTENTIONS: to discuss a project in detail
+-GOALS: to ensure that the project is on track and to identify any potential issues
+-TONE: professional and polite

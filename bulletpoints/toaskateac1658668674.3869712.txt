@@ -1,0 +1,6 @@
+-TO: teacher
+-FROM: student
+-SUBJECT: Request for help
+-Include what class the student is struggling in
+-Politely ask for help
+-Thank the teacher in advance

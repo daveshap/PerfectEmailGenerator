@@ -1,0 +1,7 @@
+-TO: Your friends
+-FROM: You
+-SUBJECT: Let's hang out!
+
+-Intentions: You want to hang out with your friends.
+-Goals: You want to have a good time.
+-Tone: Excited

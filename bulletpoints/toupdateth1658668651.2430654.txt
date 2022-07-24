@@ -1,0 +1,6 @@
+-TO: Update the church on a mission trip
+-FROM: You
+-SUBJECT: MISSION TRIP UPDATE
+-Intentions: To provide an update on the mission trip
+-Goals: To keep the church updated on the trip and its progress
+-Tone: Informative

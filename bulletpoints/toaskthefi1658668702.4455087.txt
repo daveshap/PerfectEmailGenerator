@@ -1,0 +1,5 @@
+-TO: financial aid office
+-FROM: student
+-SUBJECT: Request for financial aid
+-Student's goal: to receive financial aid
+-Tone: polite, formal

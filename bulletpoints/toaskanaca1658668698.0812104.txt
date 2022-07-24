@@ -1,0 +1,6 @@
+- TO: academic advisor
+- FROM: student
+- SUBJECT: Request for help
+- Message should express the student's need for help and explain the situation
+- Student should be polite and respectful
+- Tone should be formal

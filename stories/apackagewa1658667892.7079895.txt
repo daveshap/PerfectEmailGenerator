@@ -1,0 +1,1 @@
+A package was delivered to the wrong house and the person who received it wants to email the sender to let them know. They look up the sender's email address and compose a message letting them know that their package was delivered to the wrong house and that they will be happy to return it.
